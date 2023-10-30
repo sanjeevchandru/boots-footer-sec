@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+li{
+    list-style-type: none;
+}
+.foot-li li a{
+    color: #b5b5b5;
+}
+.foot-li li a:hover{
+    color: #f1c227;
+    transition: all 0.5s ease;
+}
+
+#end-foot{
+    background-color: #edeeef;
+}
+ .foot-icon{
+    text-align: center;
+    background-color: #e1e4ec;
+    width: 30px;
+    height: 30px;
+ }
+ .foot-icon:hover{
+    background-color: #f8c008;
+    transition: all 0.5s ease;
+ }
+
+.foot-icon a{
+    color: #5f6f92;
+}
